@@ -1,0 +1,5 @@
+- IP address conflicts
+- DNS resolution issues
+- Slow network speeds
+- Firewall misconfigurations
+- Packet loss and latency
